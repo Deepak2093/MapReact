@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528445429034",
+    "project_id": "map-react-7fc34",
+    "storage_bucket": "map-react-7fc34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528445429034:android:9e0297fad02d5e9271ba53",
+        "android_client_info": {
+          "package_name": "com.mapreact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2YyDIPTP446L1d27BfXyWKEN_600YUkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

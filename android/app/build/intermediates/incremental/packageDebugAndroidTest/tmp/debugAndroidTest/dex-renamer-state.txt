@@ -1,0 +1,7 @@
+#Tue Oct 17 22:25:44 IST 2023
+base.0=C\:\\Users\\HP\\MAPREACT\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\HP\\MAPREACT\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\15\\classes.dex
+path.0=0/classes.dex
+path.1=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
